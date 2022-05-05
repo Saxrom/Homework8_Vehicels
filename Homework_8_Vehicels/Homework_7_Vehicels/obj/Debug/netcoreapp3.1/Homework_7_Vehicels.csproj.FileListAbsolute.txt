@@ -1,0 +1,13 @@
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/bin/Debug/netcoreapp3.1/Homework_7_Vehicels.deps.json
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/bin/Debug/netcoreapp3.1/Homework_7_Vehicels.runtimeconfig.json
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/bin/Debug/netcoreapp3.1/Homework_7_Vehicels.runtimeconfig.dev.json
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/bin/Debug/netcoreapp3.1/Homework_7_Vehicels.dll
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/bin/Debug/netcoreapp3.1/Homework_7_Vehicels.pdb
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/obj/Debug/netcoreapp3.1/Homework_7_Vehicels.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/obj/Debug/netcoreapp3.1/Homework_7_Vehicels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/obj/Debug/netcoreapp3.1/Homework_7_Vehicels.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/obj/Debug/netcoreapp3.1/Homework_7_Vehicels.AssemblyInfo.cs
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/obj/Debug/netcoreapp3.1/Homework_7_Vehicels.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/obj/Debug/netcoreapp3.1/Homework_7_Vehicels.dll
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/obj/Debug/netcoreapp3.1/Homework_7_Vehicels.pdb
+/Users/shahrom/Desktop/Homework_7_Vehicels/Homework_7_Vehicels/obj/Debug/netcoreapp3.1/Homework_7_Vehicels.genruntimeconfig.cache

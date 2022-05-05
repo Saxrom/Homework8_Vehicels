@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C02B5622-BDBC-4CAB-B872-8D7C8B1047D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework_7_Vehicels/Bus.cs">
+    <Files>
+      <File FileName="Homework_7_Vehicels/Program.cs" Line="18" Column="1" />
+      <File FileName="Homework_7_Vehicels/Vehicels.cs" Line="14" Column="33" />
+      <File FileName="Homework_7_Vehicels/Bus.cs" Line="30" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework_7_Vehicels" expanded="True">
+            <Node name="Homework_7_Vehicels" expanded="True">
+              <Node name="Bus.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Homework__7__Vehicels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
